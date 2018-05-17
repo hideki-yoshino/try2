@@ -19,6 +19,9 @@ import jp.co.sample.java.Parent;
 @Controller
 @RequestMapping(value = "/java")
 public class JavaController {
+
+
+
 	private static final String TITLE_JABA_SELECTION = "JAVA基礎確認結果画面";
 
 	@InitBinder
